@@ -12,6 +12,7 @@
 		980669CE1E2B52F700E0247A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 980669CC1E2B52F700E0247A /* Main.storyboard */; };
 		980669D01E2B52F700E0247A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 980669CF1E2B52F700E0247A /* Assets.xcassets */; };
 		980669D31E2B52F700E0247A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 980669D11E2B52F700E0247A /* LaunchScreen.storyboard */; };
+		980669DB1E2B535200E0247A /* parabola.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 980669DA1E2B535200E0247A /* parabola.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		980669CF1E2B52F700E0247A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		980669D21E2B52F700E0247A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		980669D41E2B52F700E0247A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		980669DA1E2B535200E0247A /* parabola.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = parabola.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				980669C81E2B52F700E0247A /* AppDelegate.swift */,
+				980669DA1E2B535200E0247A /* parabola.mp3 */,
 				980669CA1E2B52F700E0247A /* ViewController.swift */,
 				980669CC1E2B52F700E0247A /* Main.storyboard */,
 				980669CF1E2B52F700E0247A /* Assets.xcassets */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				980669D31E2B52F700E0247A /* LaunchScreen.storyboard in Resources */,
+				980669DB1E2B535200E0247A /* parabola.mp3 in Resources */,
 				980669D01E2B52F700E0247A /* Assets.xcassets in Resources */,
 				980669CE1E2B52F700E0247A /* Main.storyboard in Resources */,
 			);
